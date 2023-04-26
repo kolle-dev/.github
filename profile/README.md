@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Wiki](https://github.com/kolle-dev/wiki/wiki)
+[Wiki](https://github.com/kolle-dev/wiki/wiki/Dev)
 
 <!--
 
